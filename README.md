@@ -28,5 +28,10 @@ that you have the latest version (14.1) of these IDEs. If you are using Eclipse,
 switching over to one of these IDEs
 
 ### Build Status
-Travis-CI Build status: [![Build Status](https://travis-ci.org/Lightning-SF/skBomb-Community.svg?branch=master)](https://travis-ci.org/Lightning-SF/skBomb-Community)
+Travis-CI Build status
 
+[![Build Status](https://travis-ci.org/Lightning-SF/skBomb-Community.svg?branch=master)](https://travis-ci.org/Lightning-SF/skBomb-Community)
+
+Private Jenkins Build Status
+
+null

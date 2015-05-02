@@ -22,3 +22,8 @@ This is a open source IDE and this will not be sold to any proprietary developer
 This is licensed under the GNU General Public License v3
 
 (c) 2015 The Lightning Software Foundation and contributors
+
+### Recommended IDE
+We recommend IntelliJ IDEA Ultimate Editon or Community Edition (Free) or NetBeans. Please ensure
+that you have the latest version (14.1) of these IDEs. If you are using Eclipse, you may consider
+switching over to one of these IDEs

@@ -1,0 +1,4 @@
+# Travis-CI Builder
+language: java
+java:
+  - oraclejdk8

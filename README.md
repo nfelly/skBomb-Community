@@ -1,5 +1,6 @@
 # skBomb-Community
 Welcome to skBomb by The Lightning Software Foundation
+[![License](https://img.shields.io/badge/License-GNU%20GPL%20v3-blue.svg)](https://www.gnu.org/copyleft/gpl.html)
 
 Finally a Skript IDE!
 

@@ -36,7 +36,7 @@ Travis-CI Build status
 
 Jenkins Build Status
 
-[![Build Status](https://xiurobert.ci.cloudbees.com/buildStatus/icon?job=skBomb Community Edition)](https://xiurobert.ci.cloudbees.com/job/skBomb%20Community%20Edition/)
+[![Build Status](https://xiurobert.ci.cloudbees.com/buildStatus/icon?job=skBomb%20Community%20Edition)](https://xiurobert.ci.cloudbees.com/job/skBomb%20Community%20Edition/)
 
 
 #### Donations?

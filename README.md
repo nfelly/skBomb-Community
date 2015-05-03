@@ -34,9 +34,6 @@ Travis-CI Build status
 
 [![Build Status](https://travis-ci.org/Lightning-SF/skBomb-Community.svg?branch=master)](https://travis-ci.org/Lightning-SF/skBomb-Community)
 
-Jenkins Build Status
-
-[![Build Status](https://xiurobert.ci.cloudbees.com/buildStatus/icon?job=skBomb%20Community%20Edition)](https://xiurobert.ci.cloudbees.com/job/skBomb%20Community%20Edition/)
 
 
 #### Donations?

@@ -35,3 +35,6 @@ Travis-CI Build status
 Private Jenkins Build Status
 
 null
+
+#### Donations?
+[![GratiPay SVG](http://img.shields.io/gratipay/xiurobert.svg)](http://gratipay.com/xiurobert/)

@@ -1,6 +1,7 @@
 # skBomb-Community
-Welcome to skBomb by The Lightning Software Foundation
 [![License](https://img.shields.io/badge/License-GNU%20GPL%20v3-blue.svg)](https://www.gnu.org/copyleft/gpl.html)
+
+Welcome to skBomb by The Lightning Software Foundation
 
 Finally a Skript IDE!
 
@@ -33,9 +34,10 @@ Travis-CI Build status
 
 [![Build Status](https://travis-ci.org/Lightning-SF/skBomb-Community.svg?branch=master)](https://travis-ci.org/Lightning-SF/skBomb-Community)
 
-Private Jenkins Build Status
+Jenkins Build Status
 
-null
+[![Build Status](https://xiurobert.ci.cloudbees.com/buildStatus/icon?job=skBomb Community Edition)](https://xiurobert.ci.cloudbees.com/job/skBomb%20Community%20Edition/)
+
 
 #### Donations?
 [![GratiPay SVG](http://img.shields.io/gratipay/xiurobert.svg)](http://gratipay.com/xiurobert/)

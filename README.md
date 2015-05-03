@@ -34,7 +34,7 @@ Travis-CI Build status
 
 [![Build Status](https://travis-ci.org/Lightning-SF/skBomb-Community.svg?branch=master)](https://travis-ci.org/Lightning-SF/skBomb-Community)
 
-
+CodeShip Tester
 
 #### Donations?
 [![GratiPay SVG](http://img.shields.io/gratipay/xiurobert.svg)](http://gratipay.com/xiurobert/)

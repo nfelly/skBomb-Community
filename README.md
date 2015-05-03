@@ -41,4 +41,10 @@ CodeShip
 #### Donations?
 [![GratiPay SVG](http://img.shields.io/gratipay/xiurobert.svg)](http://gratipay.com/xiurobert/)
 
-##### Others
+##### Dependencies
+GSON
+[![Google GSON Maven Central](https://maven-badges.herokuapp.com/maven-central/com.google.code.gson/gson/badge.svg)](https://code.google.com/p/google-gson/)
+
+Guava
+[![Google Guava Maven Central](
+

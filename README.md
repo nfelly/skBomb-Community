@@ -20,8 +20,8 @@ With:
 
 This is a open source IDE and this will not be sold to any proprietary developer.
 
-## License
-This is licensed under the GNU General Public License v3
+## Donations?
+[![GratiPay SVG](http://img.shields.io/gratipay/xiurobert.svg)](http://gratipay.com/xiurobert/)
 
 (c) 2015 The Lightning Software Foundation and contributors
 
@@ -38,13 +38,14 @@ Travis-CI Build status
 CodeShip
 
 [![Build Status](https://codeship.com/projects/91d1b8b0-d375-0132-e36d-5a0ae0b16bdc/status?branch=master)](https://codeship.com/projects/77661)
-#### Donations?
-[![GratiPay SVG](http://img.shields.io/gratipay/xiurobert.svg)](http://gratipay.com/xiurobert/)
 
-##### Dependencies
+
+##### Dependencies versions
 GSON
 [![Google GSON Maven Central](https://maven-badges.herokuapp.com/maven-central/com.google.code.gson/gson/badge.svg)](https://code.google.com/p/google-gson/)
 
 Guava
-[![Google Guava Maven Central](
+[![Google Guava Maven Central](https://maven-badges.herokuapp.com/maven-central/com.google.guava/guava/badge.svg)](https://github.com/google/guava)
 
+SnakeYAML
+[![SnakeYAML Maven Central](https://maven-badges.herokuapp.com/maven-central/org.yaml/snakeyaml/badge.svg)](https://code.google.com/p/snakeyaml/)

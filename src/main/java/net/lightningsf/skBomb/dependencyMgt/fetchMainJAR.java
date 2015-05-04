@@ -38,7 +38,7 @@ public class fetchMainJAR {
                 FileUtils.copyURLToFile(skloc, mainjarfile);
             } catch (IOException e) {
                 err.println("[IDE] IDE Internal Error Occured while trying to fetch a dependency");
-                err.println("[IDE]Found Java Error IOException")
+                err.println("[IDE]Found Java Error IOException");
                 e.printStackTrace();
             }
         }

@@ -1,24 +1,10 @@
 package net.lightningsf.skBomb.dependencyMgt;
 
-import java.io.BufferedOutputStream;
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-
 import java.io.File;
-import java.io.FileDescriptor;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.FileWriter;
-import java.io.FilenameFilter;
 
 import java.io.IOException;
 
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.io.OutputStream;
-import java.io.PrintStream;
 import java.net.URL;
-import java.net.URLConnection;
 
 import org.apache.commons.io.FileUtils;
 
@@ -38,7 +24,8 @@ public class fetchMainJAR {
                 FileUtils.copyURLToFile(skloc, mainjarfile);
             } catch (IOException e) {
                 err.println("[IDE] IDE Internal Error Occured while trying to fetch a dependency");
-                err.println("[IDE]Found Java Error IOException");
+                err.println("[IDE] Found Java Error IOException");
+                err.println("[IDE] Sending Information to LoggingAPI");
                 e.printStackTrace();
             }
         }

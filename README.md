@@ -1,4 +1,8 @@
 # skBomb-Community
+
+## We need contributors! 
+Fork us and help out!
+
 [![License](https://img.shields.io/badge/License-GNU%20GPL%20v3-blue.svg)](https://www.gnu.org/copyleft/gpl.html)
 [![Codacy Badge](https://www.codacy.com/project/badge/4144c94bd5ba4d4994cae6927fb59539)](https://www.codacy.com/app/xiurobert/skBomb-Community)
 

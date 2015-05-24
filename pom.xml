@@ -10,7 +10,6 @@
     <name>skBomb Skript IDE</name>
     <description>
         skBomb, the first and only Skript IDE around
-
     </description>
     <url>https://github.com/Lightning-SF/skBomb-Community</url>
 
@@ -22,18 +21,22 @@
     </properties>
 
     <licenses>
+
         <license>
             <name>GNU General Public License v3</name>
             <url>http://opensource.org/licenses/gpl-3.0.html</url>
         </license>
+
     </licenses>
 
     <developers>
+
         <developer>
             <name>Robert Xiu</name>
             <url>https://github.com/xiurobert</url>
             <email>xiurobert@gmail.com</email>
         </developer>
+
     </developers>
 
     <repositories>
@@ -49,6 +52,7 @@
             <name>CommonsIO repo</name>
             <url>http://repo1.maven.org/maven2/</url>
         </repository>
+
     </repositories>
 
     <dependencies>
@@ -82,7 +86,9 @@
     </dependencies>
 
     <build>
+
         <plugins>
+
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.3</version>
@@ -112,7 +118,9 @@
                 </executions>
               </plugin>
         </plugins>
+
         <resources>
+          
             <resource>
                 <targetPath>.</targetPath>
                 <filtering>true</filtering>

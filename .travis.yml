@@ -7,6 +7,7 @@ jdk:
 #  - oraclejdk7
 #  - openjdk7
 
-# Submit Coveralls report
+# Clean, test
+# Submit Coveralls and JaCoCo report
 after_success:
-  - mvn clean coveralls:report
+  - mvn clean test jacoco:report coveralls:report

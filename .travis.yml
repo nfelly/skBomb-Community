@@ -1,7 +1,12 @@
 # Travis-CI Builder
+
+# We will refrain from using java 7 till further notice
 language: java
 jdk:
   - oraclejdk8
-  - oraclejdk7
-  - openjdk7
-#Derp
+#  - oraclejdk7
+#  - openjdk7
+
+# Submit Coveralls report
+after_success:
+  - mvn clean coveralls:report

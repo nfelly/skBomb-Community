@@ -17,3 +17,6 @@ target/
 # IntelliJ IDEA Files
 .idea/
 *.iml
+
+# Mac Dust
+.DS_Store/

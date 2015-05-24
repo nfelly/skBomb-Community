@@ -1,7 +1,12 @@
-# skBomb-Community [Needs Contributors!]
+# skBomb-Community
 [![License](https://img.shields.io/badge/License-GNU%20GPL%20v3-blue.svg)](https://www.gnu.org/copyleft/gpl.html)
 [![Codacy Badge](https://www.codacy.com/project/badge/4144c94bd5ba4d4994cae6927fb59539)](https://www.codacy.com/app/xiurobert/skBomb-Community)
-[![GratiPay SVG](http://img.shields.io/gratipay/xiurobert.svg)](http://gratipay.com/xiurobert/) 
+[![GratiPay SVG](http://img.shields.io/gratipay/xiurobert.svg)](http://gratipay.com/xiurobert/)
+[![Build Status](https://travis-ci.org/Lightning-SF/skBomb-Community.svg?branch=master)](https://travis-ci.org/Lightning-SF/skBomb-Community)
+[![Coverage Status](https://coveralls.io/repos/Lightning-SF/skBomb-Community/badge.svg)](https://coveralls.io/r/Lightning-SF/skBomb-Community)
+
+# Contributors needed! Fork us and make a pull request!
+
 Welcome to skBomb by The Lightning Software Foundation
 
 Finally a Skript IDE!
@@ -21,8 +26,9 @@ With:
 This is a open source IDE and this will not be sold to any proprietary developer.
 
 ## Donations?
+[![GratiPay SVG](http://img.shields.io/gratipay/xiurobert.svg)](http://gratipay.com/xiurobert/)
 
-Click the Gratipay SVG image up there!
+(c) 2015 The Lightning Software Foundation and contributors
 
 ### Recommended IDE
 We recommend IntelliJ IDEA Ultimate Editon or Community Edition (Free) or NetBeans. Please ensure
@@ -40,13 +46,11 @@ CodeShip
 
 
 ##### Dependencies versions
-GSON on maven central: 
+GSON
 [![Google GSON Maven Central](https://maven-badges.herokuapp.com/maven-central/com.google.code.gson/gson/badge.svg)](https://code.google.com/p/google-gson/)
 
-Our version: 
-
-Guava on maven central: 
+Guava
 [![Google Guava Maven Central](https://maven-badges.herokuapp.com/maven-central/com.google.guava/guava/badge.svg)](https://github.com/google/guava)
 
-SnakeYAML on maven central: 
+SnakeYAML
 [![SnakeYAML Maven Central](https://maven-badges.herokuapp.com/maven-central/org.yaml/snakeyaml/badge.svg)](https://code.google.com/p/snakeyaml/)
